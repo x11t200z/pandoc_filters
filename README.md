@@ -7,7 +7,7 @@ A collection of [Pandoc Lua filters](https://pandoc.org/lua-filters.html) for co
 ## 🎨 obsidian-callouts.lua
 
 Converts Obsidian [callout blocks](https://help.obsidian.md/Editing+and+formatting/Callouts) into beautifully styled boxes when exporting to **DOCX** — complete with coloured left border, light background shading, and emoji icons, closely matching how they appear in Obsidian.
-
+![alt text](image.png)
 ### ✨ Features
 
 - 🎯 **25 callout types** — `note`, `tip`, `warning`, `danger`, `info`, `success`, `question`, `bug`, `example`, `quote`, and more
